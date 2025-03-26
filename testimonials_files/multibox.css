@@ -1,0 +1,151 @@
+
+/**************************************************************
+
+	MultiBox
+	v1.3
+
+**************************************************************/
+
+.MultiBoxContainer {
+	position: absolute;
+	/*border: 1px solid #000;*/
+	border: 10px solid #ffffff;
+	background-color: #FFF;
+	display: none;
+	z-index: 2;
+	text-align: left;
+	-moz-box-shadow:0 0 10px #000000;
+	
+	box-shadow: 0 0 10px #000000;
+-webkit-box-shadow: 0 0 10px #000000;
+-moz-box-shadow: 0 0 10px #000000;
+filter: progid:DXImageTransform.Microsoft.dropShadow(color=#000000, offX=0, offY=0, positive=true);
+	/*overflow: hidden;*/
+}
+
+.MultiBoxLoading {
+	background: url(/web/20180903000129im_/http://dreamriderequestriantherapy.com/dreamrider/templates/university/images/multibox/loader.gif) no-repeat center;
+}
+
+.MultiBoxContent {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.MultiBoxClose {
+	position: absolute;
+	/*top: -12px;
+	right: -12px;*/
+	top: -26px;
+	right:-26px;
+	background: url(/web/20180903000129im_/http://dreamriderequestriantherapy.com/dreamrider/templates/university/images/multibox/close.png) no-repeat;
+	width:31px;
+	height:30px;
+	cursor: pointer;
+}
+
+
+.MultiBoxControlsContainer {
+	overflow: hidden;
+	height: 0px;
+	position: relative;
+}
+
+.MultiBoxControls {
+	width: 100%;
+	height: auto;
+	position: relative;
+	background-color: #ffffff;
+}
+
+
+.MultiBoxPrevious {
+	position: absolute;
+	background: url(/web/20180903000129im_/http://dreamriderequestriantherapy.com/dreamrider/templates/university/images/multibox/left.png) no-repeat;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	margin-top: 5px;
+	cursor: pointer;
+}
+
+.MultiBoxNext {
+	position: absolute;
+	background: url(/web/20180903000129im_/http://dreamriderequestriantherapy.com/dreamrider/templates/university/images/multibox/right.png) no-repeat;
+	width: 24px;
+	height: 24px;
+	right: 0px;
+	margin-top: 5px;
+	cursor: pointer;
+}
+
+.MultiBoxNextDisabled {
+	cursor: default;
+	background: url(/web/20180903000129im_/http://dreamriderequestriantherapy.com/dreamrider/templates/university/images/multibox/rightDisabled.png) no-repeat;
+}
+
+.MultiBoxPreviousDisabled {
+	cursor: default;
+	background: url(/web/20180903000129im_/http://dreamriderequestriantherapy.com/dreamrider/templates/university/images/multibox/leftDisabled.png) no-repeat;
+}
+
+.MultiBoxTitle {
+	position: relative;
+	margin: 7px 0 0 35px;
+	float: left;
+	font-family: Helvetica, arial, sans-serif, Verdana;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+}
+
+.MultiBoxNumber {
+	position: relative;
+	width: 50px;
+	margin: 10px 35px 0 0;
+	float: right;
+	font-family: Helvetica, arial, sans-serif, Verdana;
+	font-size: 11px;
+	color: #000000;
+	text-align: right;
+}
+
+.MultiBoxDescription {
+	clear: left;
+	position: relative;
+	margin: 0 35px 0 35px;
+	padding-top: 5px;
+	font-family: Helvetica, arial, sans-serif, Verdana;
+	font-size: 11px;
+	color: #000000;
+	text-align: left;
+}
+#OverlayContainer {
+	height:0px;}
+/*************************************************************/
+
+
+/*
+     FILE ARCHIVED ON 00:01:29 Sep 03, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:35:43 Mar 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 112.402
+  exclusion.robots: 0.101
+  exclusion.robots.policy: 0.094
+  RedisCDXSource: 1.104
+  esindex: 0.008
+  LoadShardBlock: 91.053 (3)
+  PetaboxLoader3.datanode: 100.866 (5)
+  CDXLines.iter: 17.797 (3)
+  load_resource: 160.007 (2)
+  PetaboxLoader3.resolve: 79.269 (2)
+*/
