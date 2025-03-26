@@ -1,0 +1,600 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"></meta>
+    <meta name="robots" content="index, follow"></meta>
+    <meta name="keywords" content="dream rider, therapeutic riding for children, autism, PTSD"></meta>
+    <meta name="description" content="Dream Rider Equestrian Therapy Center -"></meta>
+    <title>Equine Assisted Rehabilitation - Dream Rider</title>
+    <link href="assets/favicon.ico" rel="shortcut icon" type="image/x-icon"></link>
+    <link rel="stylesheet" href="assets/css/modal.css" type="text/css"></link>
+    <link rel="stylesheet" href="assets/css/k2.css" type="text/css"></link>
+    <script type="text/javascript" src="assets/js/mootools.js"></script>
+  </head>
+  <body style="background:#e8ddc9 url(assets/canvasbk.jpg) repeat;">
+    <script type="text/javascript" src="assets/js/modal.js"></script>
+    <script type="text/javascript" src="assets/js/k2.js"></script>
+    <script type="text/javascript">
+      window.addEvent('domready', function() {
+	  SqueezeBox.initialize({});
+	  $$('a.modal').each(function(el) {
+	      el.addEvent('click', function(e) {
+		  new Event(e).stop();
+		  SqueezeBox.fromElement(el);
+	      });
+	  });
+      });
+      var K2RatingURL = 'http://dreamriderequestriantherapy.com/';
+    </script>
+    <script language="javascript" type="text/javascript">var s5_dropdowntext = "Open Gallery";</script>
+    <script src="assets/js/jd_002.js" type="text/javascript"></script>
+    <script src="assets/js/jd.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="assets/css/s5imagecontent.css" type="text/css"></link>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+    <meta http-equiv="Content-Style-Type" content="text/css"></meta>
+
+    <link rel="stylesheet" href="assets/css/system.css" type="text/css"></link>
+    <link rel="stylesheet" href="assets/css/general.css" type="text/css"></link>
+    <link href="assets/css/template.css" rel="stylesheet" type="text/css" media="screen"></link>
+    <link href="assets/css/editor.css" rel="stylesheet" type="text/css" media="screen"></link>
+    <link href="assets/css/suckerfish.css" rel="stylesheet" type="text/css" media="screen"></link>
+    <link href="assets/css/multibox.css" rel="stylesheet" type="text/css" media="screen"></link>
+    <link href="assets/css/ajax.css" rel="stylesheet" type="text/css" media="screen"></link>
+    <script type="text/javascript" src="assets/js/multibox.js"></script>
+    <script type="text/javascript" src="assets/js/AC_RunActiveContent.js"></script>
+    <script type="text/javascript" src="assets/js/jquery13.js"></script>
+    <script type="text/javascript" src="assets/js/jquery_no_conflict.js"></script>
+    <script type="text/javascript">
+      var s5_fading_menu = "no";
+      function s5_jqmainmenu(){
+	  jQuery(" #navlist ul ").css({display: "none"}); // Opera Fix
+	  jQuery(" #s5_navv li").hover(function(){
+	      jQuery(this).find('ul:first').css({visibility: "visible",display: "none"}).slideDown(400);
+	  },function(){jQuery(this).find('ul:first').css({visibility: "hidden"});	});}
+      jQuery(document).ready(function(){ s5_jqmainmenu();});
+    </script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_1 = '';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_2 = '';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_3 = '';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_4 = 'We Are Non-Profit';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_5 = 'Our Heroes';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_6 = '';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_7 = '';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_8 = '';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_9 = '';</script>
+    <script language="javascript" type="text/javascript">var s5_text_menu_10 = '';</script>
+    <style type="text/css"> 
+      .s5_wrap, .s5_wrap2{width:900px;}
+    </style>
+    <meta name="google-site-verification" content="Ok1DdoLi9UsBlq8bkzGDQHWO-E65VPSFdR-6b0v0Wh4"></meta>
+    <meta name="y_key" content="d6f866f6c0d23a40"></meta>
+    <meta name="msvalidate.01" content="6142D7367F802C1CD001ABC3F9ADB13E"></meta>
+    <div id="s5_topback" style="background:transparent url(assets/canvasbk.jpg) no-repeat center top;"> 
+      <div id="s5_bottomback" style="background:transparent url(assets/canvasbk.jpg) no-repeat center bottom;"> 
+	<div id="s5_topbar"></div>
+	<div class="s5_wrap">
+	  <div id="s5_logo" style="cursor:pointer;" title="Epuise II - Guillaume Azuolay 2010 - All Rights Reserved" onclick="window.document.location.href='http://dreamriderequestriantherapy.com/dreamrider/'"></div>
+	  <div id="s5_logreg">
+	  </div>
+	  <div style="clear:both;"></div>
+	</div>
+	<div id="s5_menuback">	
+	  <div id="s5_wrapback">
+	    <div class="s5_wrap2" style="position:relative;z-index:1;">
+	      <div class="s5_wrap2" style="margin:0 auto;float:left;margin-right:-30px;">
+		<!-- Start Menu -->
+		<div id="s5_menu">						
+		  <div id="s5_navv">	
+		    <ul>
+		      <li><span class="s5_outer_active"><span><a class="active" href="about.html">About Us<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>
+			<ul>
+			  <li class="s5_toparrow"></li>
+			  <li class="noback"><span><span class="span_nonactive"><a class="sub" href="facility.html">Dream Rider Facility</a></span></span></li>
+			  <li class="noback"><span><span class="span_nonactive"><a class="sub" href="assets/ClientRegistrationPacket.pdf">Become a Client</a></span></span></li>
+			  <li class="noback"><span class="parent">
+				<span class="span_nonactive"><a class="sub" href="catherine_hand.html">Instructor</a></span></span>
+			    <ul>
+			      <li class="s5_menutop"></li>
+			      <li><span><span class="span_nonactive"><a class="sub" href="catherine_hand.html">Catherine Hand</a></span></span></li>
+			      <li class="s5_menubottom"></li></ul></li>
+			  <!-- <li class="noback"><span><span class="span_nonactive"><a class="sub" href="news.html">In The News</a></span></span></li> -->
+			  <li class="noback"><span><span class="span_nonactive"><a class="sub" href="assets/501c3.pdf" download>501(c)(3) Approval Letter</a></span></span></li>
+			  <li class="s5_menubottom"></li>
+			</ul>
+		      </li>
+		      <!--
+			  <li><span class="s5_outer_active"><span><a class="active" href="horses.html">Horses<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></li>
+                      -->
+		      <li><span class="s5_outer_active"><span><a class="active" href="donations.html">Donations<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></li>
+		      <li><span class="s5_outer_active"><span><a class="active" href="volunteers.html">Volunteers<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>
+			<!--
+			    <ul>
+			      <li class="s5_toparrow"></li>
+			      <li class="noback"><span><span class="span_nonactive"><a class="sub" href="javascript:;">Volunteer Training Dates</a></span></span></li>
+			      <li class="s5_menubottom"></li>
+			    </ul>
+                            -->
+		      </li>
+		      <li><span><span><a href="https://www.facebook.com/DreamRiderEquestrianTherapy/" class="sub" target="_window">Facebook</a></span></span>
+		      </li>
+		      <li><span><span><a href="https://www.youtube.com/user/BreastCancerRehab" class="sub" target="_window">Youtube</a></span></span>
+		      </li>		      
+			  <li><span class="s5_outer_active"><span><a class="active" href="testimonials.html">Testimonials<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></li>
+		      <li>
+			<span class="s5_outer_active"><span><a class="active" href="mailto:info@dreamriderequestriantherapy.com?subject=Requesting%20Information%20on%20Dream%20Rider">Contact Us</a></span></span>
+			<!--
+			    <ul>
+			      <li class="s5_toparrow"></li>
+			      <li class="noback"><span><span class="span_nonactive"><a class="sub" href="https://web.archive.org/web/20190722031528/http://dreamriderequestriantherapy.com/dreamrider/index.php?option=com_user&amp;view=login&amp;Itemid=244">Sign in</a></span></span></li> 
+			      <li class="s5_menubottom"></li>
+			    </ul>
+			    -->
+		      </li>
+		      <!--
+			  <li><span class="s5_outer_active"><span><a class="active" href="https://web.archive.org/web/20190722031528/http://dreamriderequestriantherapy.com/dreamrider/index.php?option=com_k2&amp;view=itemlist&amp;layout=category&amp;task=category&amp;id=7&amp;Itemid=241">Blog<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>
+			    <ul>
+			      <li class="s5_toparrow"></li>
+			      <li class="noback"><span><span class="span_nonactive"><a class="sub" href="https://web.archive.org/web/20190722031528/http://dreamriderequestriantherapy.com/dreamrider/index.php?option=com_k2&amp;view=itemlist&amp;layout=category&amp;task=category&amp;id=8&amp;Itemid=242">Newsletter</a></span></span></li>
+			      <li class="s5_menubottom"></li>
+			    </ul>
+			  </li>
+			  -->
+		    </ul>		
+		  </div>	
+		</div>
+		<!-- End Menu -->
+	      </div>	
+	    </div>
+	  </div>	
+	</div>
+	<div style="clear:both;"></div>
+	<div id="s5_topgradient_back">
+	  <div id="s5_topgradient">	
+	    <div id="s5_bottomgradient">
+	      <div class="s5_wrap">
+		<div class="s5_leftset50">
+		  <div class="s5_w_modwrap">
+		    <!-- Start top 1-3 -->
+		    <div id="s5_advert4_100">
+			  <div class="module-box">		
+			    <div class="s5_moduletl-box">	
+			      <div class="s5_moduletr-box">	
+				<div class="s5_moduletm-box">	
+				</div>
+			      </div>	
+			    </div>
+			    <div class="s5_moduleml-box">
+			      <div class="s5_modulemr-box">	
+				<div class="s5_modulemm-box">	
+				  <script type="text/javascript">
+				    function startGallery() {
+				    var myGallery = new gallery($('myGallery'), {
+				    timed: true,
+				    defaultTransition: "fade"
+				    });	}
+				    window.addEvent('domready',startGallery);
+				  </script>
+				  <div class="content" style="position:relative;z-index:0;">
+				    <div id="myGallery" style="height:312px;width:417px;">
+				      <div class="imageElement" style="z-index:0;">
+					<h3>View from the Top</h3>
+					<p style="text-shadow:1px 1px #000000;"></p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="assets/on_top.jpg" alt="On Top of the World" class="full"></img>
+					<img src="assets/on_top.jpg" alt="On Top of the World" class="thumbnail"></img>
+				      </div>
+				      <div class="imageElement" style="z-index:0;">
+					<h3>Hugs</h3>
+					<p style="text-shadow:1px 1px #000000;"></p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="assets/horse_hug_sm.jpg" alt="Horse Hug" class="full"></img>
+					<img src="assets/horse_hug_sm.jpg" alt="Horse Hug" class="thumbnail"></img>
+				      </div>
+				      <div class="imageElement" style="z-index:0;">
+					<h3>Breathe</h3>
+					<p style="text-shadow:1px 1px #000000;"></p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="assets/contact_sm.jpg" alt="Breathe" class="full"></img>
+					<img src="assets/contact_sm.jpg" alt="Breathe" class="thumbnail"></img>
+				      </div>
+				    </div>
+				  </div>
+				</div>	
+			      </div>
+			    </div>
+			    <div class="s5_modulebl-box">	
+			      <div class="s5_modulebr-box">	
+				<div class="s5_modulebm-box">	
+				</div>
+			      </div>	
+			    </div>
+			  </div>
+		    </div>
+		    <div style="clear:both;"></div>		
+		    <!-- End top 1-3 -->
+		  </div>
+		</div>	
+		<div class="s5_rightset50">
+		  <div class="s5_w_modwrap">
+		    <!-- Start top 1-3 -->
+		    <div id="s5_top4_100">
+		      <div class="module-blank">		
+			<div class="s5_moduletl-blank">	
+			  <div class="s5_moduletr-blank">	
+			    <div class="s5_moduletm-blank">	
+			    </div>
+			  </div>
+			</div>
+			<div class="s5_moduleml-blank">
+			  <div class="s5_modulemr-blank">	
+			    <div class="s5_modulemm-blank">
+			      <!--
+				  <div style="float: left; padding-right: 6px; padding-top: 7px; width: 128px;"><a href="assets/Feel.flv" id="mb1" class="s5mb" title="Phase I - Feel"> <img src="assets/feel_btn.jpg" class="boxed"></img></a>
+				    <div class="s5_multibox mb1">Biofeedback - skin to skin contact</div>
+				  </div>
+				  <div style="float: left; padding-right: 6px; padding-top: 7px; width: 128px;"><a href="assets/Harmony.flv" id="mb2" class="s5mb"> <img src="assets/harmony_btn.jpg" class="boxed"></img></a>
+				    <div class="s5_multibox mb2">Harmony in motion to music</div>
+				  </div>
+				  <div style="float: left; padding-right: 0px; padding-top: 7px; width: 128px;"><a href="assets/nicole_unity.flv" id="mb3" class="s5mb"> <img src="assets/nicoleharmony_btn.jpg" class="boxed" alt="Nicole describes her experience of Unity"></img> </a>
+				    <div class="s5_multibox mb3">Nicole describes her experience of Unity</div>
+				  </div>
+				  -->
+			    </div>	
+			  </div>
+			</div>
+			<div class="s5_modulebl-blank">	
+			  <div class="s5_modulebr-blank">	
+			    <div class="s5_modulebm-blank">	
+			    </div>
+			  </div>	
+			</div>
+		      </div>
+		      <div class="module">		
+			<div class="s5_moduletl">	
+			  <div class="s5_moduletr">	
+			    <div class="s5_moduletm">	
+			    </div>
+			  </div>	
+			</div>
+			<div class="s5_moduleml">
+			  <div class="s5_modulemr">	
+			    <div class="s5_modulemm">	
+			      <p style="text-align: center;"><span style="font-size: 18pt;"><span style="color: #5a2800;"><strong><span style="font-family: georgia, palatino;"><span style="font-size: 16pt;">Who Can Benefit from </span></span></strong></span></span></p>
+			      <p style="text-align: center;"><span style="font-size: 18pt;"><span style="color: #5a2800;"><strong><span style="font-family: georgia, palatino;"><span style="font-size: 16pt;">Dream Rider's&nbsp;</span></span></strong></span></span></p>
+			      <p style="text-align: center;"><span style="font-size: 18pt;"><span style="color: #5a2800;"><strong><span style="font-family: georgia, palatino;"><span style="font-size: 16pt;">Therapeutic Riding Program? </span></span></strong></span></span></p>
+			      <p style="text-align: center;"><span style="font-size: 14pt;">&nbsp;</span><span style="font-size: 14pt;"><strong><span style="color: #5a2800;"><span style="font-family: georgia, palatino;">&nbsp;</span></span><span style="color: #5a2800;"><span style="font-family: georgia,palatino;">Traumatic Brain Injury</span></span></strong></span></p>
+			      <p style="text-align: center;"><span style="font-size: 18pt;"><span style="color: #5a2800;"><strong><span style="font-family: georgia, palatino;"><span style="font-size: 14pt;">Developmental Delay</span></span></strong></span></span></p>
+			      <p style="text-align: center;"><span style="font-size: 18pt;"><span style="color: #5a2800;"><strong><span style="font-family: georgia, palatino;"><span style="font-size: 14pt;">Autism Spectrum Disorder</span></span></strong></span></span></p>
+			      <p style="text-align: center;"><span style="font-size: 18pt;"><span style="color: #5a2800;"><strong><span style="font-family: georgia, palatino;"><span style="font-size: 14pt;">Children With Attention Deficit Disorder</span></span></strong></span></span></p>					</div>	
+			  </div>
+			</div>
+			<div class="s5_modulebl">	
+			  <div class="s5_modulebr">	
+			    <div class="s5_modulebm">	
+			    </div>
+			  </div>	
+			</div>
+		      </div>
+		    </div>
+		    <div style="clear:both;"></div>		
+		    <!-- End top 1-3 -->
+		  </div>
+		  <div style="clear:both;"></div>		
+		</div>	
+		<div style="clear:both;"></div>		
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div style="clear:both;"></div>	
+	<div class="s5_wrap">
+	  <div class="s5_roundedtl">
+	    <div class="s5_roundedtr">
+	      <div class="s5_roundedtm">
+	      </div>
+	    </div>
+	  </div>
+	  <div class="s5_roundedml">
+	    <div class="s5_roundedmr">
+	      <div class="s5_roundedmm">
+		<!-- Start Above Body -->
+		<div id="s5_abovebody">
+		  <div id="s5_abovebody_inner">
+		    <div id="s5_abovebody_static">				
+		      <div id="s5_above_body_1_100">
+			<div class="module">		
+			  <div class="s5_moduletl">	
+			    <div class="s5_moduletr">	
+			      <div class="s5_moduletm">	
+			      </div>
+			    </div>	
+			  </div>
+			  <div class="s5_moduleml">
+			    <div class="s5_modulemr">	
+			      <div class="s5_modulemm">	
+				<p class="left-col-content"><span style="color: #5a2800;"><span style="color: #5a2800;"><strong><span style="font-size: 11pt;"><span style="font-size: 11pt;"><img src="assets/PATH-bg-logo-int.gif" alt="Black PATH Intl. logo small" title="PATH Intl. logo" width="55" height="66" align="right"></img></span></span></strong></span></span></p>
+				<p class="left-col-content"><strong><span style="font-size: 11pt;"><span style="font-family: helvetica;"><span style="color: #660000;">Dream
+					  Rider Equestrian Therapy&nbsp;a PATH international member center 
+					  offers a one of a kind combined Hippotherapy &amp; Therapeutic Riding 
+					  Program. We serve children especially those with 
+					  neurological or attention deficit issues.</span></span></span></strong></p>
+				<p><span style="color: #660000;"><strong><span style="font-size: 11pt;"><span style="font-family: helvetica;">&nbsp;</span></span></strong><span style="font-size: 11pt;"><span style="font-family: helvetica;"><strong><span style="text-decoration: underline;">Therapeutic riding</span></strong><strong>
+					  has been shown to enhance both physical and emotional health for 
+					  children with disabilities and adults with various physical and or 
+					  mental challenges. At Dream Rider Equestrian therapy, carefully trained 
+					  ponies are used to assist the recovery of children whose special needs 
+					  require movement induced physical therapy to overcome weakness or 
+					  atrophy of muscles resulting either from congenital neurological 
+					  problems or are the result of traumatic injury. Effectiveness of the 
+					  physical therapy is enhanced with music therapy where clients move to 
+					  music on the horses.</strong></span></span></span></p>
+				<p><span style="color: #660000;"><strong><span style="font-size: 11pt;"><span style="font-family: helvetica;">&nbsp;</span></span></strong><span style="font-size: 11pt;"><span style="font-family: helvetica;"><strong><span style="text-decoration: underline;">Hippotherapy </span></strong><strong>in our program is conducted by a licensed occupational therapist using</strong><strong>
+					  the&nbsp; movement of the horse to help the patient improve strength, 
+					  balance, coordination, sensory processing, and improved overall 
+					  function.&nbsp; </strong><strong>&nbsp;</strong></span></span></span>
+				</p>
+			      </div>	
+			    </div>
+			  </div>
+			  <div class="s5_modulebl">	
+			    <div class="s5_modulebr">	
+			      <div class="s5_modulebm">	
+			      </div>
+			    </div>	
+			  </div>
+			</div>
+		      </div>
+		      <div style="clear:both;"></div>
+		    </div>
+		  </div>
+		</div>
+		<!-- End Above Body -->
+	      </div>
+	    </div>
+	  </div>	
+	  <div class="s5_roundedbl">
+	    <div class="s5_roundedbr">
+	      <div class="s5_roundedbm">
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div style="clear:both;"></div>	
+	<div id="s5_topgradient_back">
+	  <div id="s5_topgradient">	
+	    <div id="s5_bottomgradient">
+	      <div class="s5_wrap">
+		<div style="width:100%;overflow:hidden;position:relative;">
+		  <div id="s5_mainbodyfullw">
+		    <div id="s5_mainbodywrapper">
+		      <div id="s5_mainbody">	
+			<div id="s5_middlecolwrap">
+			  <div class="s5_mainmiddleinnerwrap">
+			    <div id="s5_getmaincolheight">
+			      <div class="s5_mainmiddle_padding">	
+				<div id="s5_breadcrumbs">
+				  <div id="s5_breadcrumbsinner">
+				    <div class="moduletable">
+				      <div class="breadcrumbs pathway">
+					<div class="pathway_first"><div class="pathway_first_wrapper"><a href="index.html">Home</a></div></div></div>
+				    </div>
+				  </div>
+				</div>
+				<div id="s5_abovebodyusers">				
+				</div>
+				<div id="s5_bodygradientnoin">
+				  <div>
+				    <div style="clear:both;"></div>	
+				    <ul>
+				      <li>
+					<a href="links.html" class="category">
+					  Dream Rider Associated Links</a>
+					&nbsp;
+					<span class="small">
+					  <!-- (8) -->
+					</span>
+				      </li>
+				    </ul>
+				  </div>
+				  <div style="clear:both;"></div>	
+				</div>	
+				<div style="clear:both;"></div>	
+			      </div>
+			    </div>
+			    <div style="clear:both;"></div>	
+			  </div>
+			</div>
+		      </div>
+		    </div>	
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div style="clear:both;"></div>	
+	<div id="s5_bottompositions">
+	  <div class="s5_wrap">
+	    <div id="s5_bottompositionsgrad">
+	      <div class="s5_w_modwrap">
+		<!-- Start User 1-3 -->
+		<div id="s5_contentbottom1_50">
+		  <div class="module">
+		    <div class="s5_moduletl">
+		      <div class="s5_moduletr">
+			<div class="s5_moduletm">
+			  <h3 class="s5_mod_h3"><span class="s5_h3_first">Latest </span> News</h3>
+			</div>
+		      </div>	
+		    </div>
+		    <div class="s5_moduleml">
+		      <div class="s5_modulemr">	
+			<div class="s5_modulemm">	
+			  <div id="k2ModuleBox329" class="k2ItemsBlock ">
+			    <!--
+			    <ul>
+			      <li class="even">
+				<a class="moduleItemTitle" href="news_item_children.html">Local EquestrianTherapy Center Now Enrolling Special Needs Children for Summer Program</a>
+				<div class="moduleItemIntrotext"></div>
+				<div class="clr"></div>
+				<div class="clr"></div>
+				<a class="moduleItemReadMore" href="news_item_children.html">
+				  Read more...			</a>
+				<div class="clr"></div>
+			      </li>
+			      <li class="odd">
+				<a class="moduleItemTitle" href="news_item_sdsu_student.html">SDSU Media Student Makes Film About Dream Rider</a>
+				<div class="moduleItemIntrotext">
+      	      			  San Diego State University Media student, Kayla 
+				  Eide&nbsp;makes PR film about work at&nbsp;Dream Rider&nbsp;Equestrian 
+				  Therapy on March 12, 2011. 
+				  To view the film you can &nbsp;see it on our Blog…      	      </div>
+				<div class="clr"></div>
+				<div class="clr"></div>
+				<a class="moduleItemReadMore" href="news_item_sdsu_student.html">
+				  Read more...			</a>
+				<div class="clr"></div>
+			      </li>
+			      <li class="even lastItem">
+				<a class="moduleItemTitle" href="news_item_purina.html">Purina Recognizes Dream Rider with a Grant</a>
+				<div class="moduleItemIntrotext">
+      	      			  FOR IMMEDIATE RELEASE
+				  PURINA MILLS SUPPORTS LOCAL BREAST CANCER REHAB CENTER
+				  by Shirley Clukey
+				  Alpine, CA, February, 2011—Dream Rider Equestrian Center, the flagship 
+				  of equine assisted activities and therapies for…      	      </div>
+				<div class="clr"></div>
+				<div class="clr"></div>
+				<a class="moduleItemReadMore" href="news_item_purina.html">
+				  Read more...			</a>
+				<div class="clr"></div>
+			      </li>
+			      <li class="clearList"></li>
+			    </ul>
+                            -->
+			</div>					</div>	
+		      </div>
+		    </div>
+		    <div class="s5_modulebl">	
+		      <div class="s5_modulebr">	
+			<div class="s5_modulebm">	
+			</div>
+		      </div>	
+		    </div>
+		  </div>
+		</div>
+		<div id="s5_contentbottom3_50">
+		  <div class="module">		
+		    <div class="s5_moduletl">	
+		      <div class="s5_moduletr">	
+			<div class="s5_moduletm">	
+			</div>
+		      </div>	
+		    </div>
+		    <div class="s5_moduleml">
+		      <div class="s5_modulemr">	
+			<div class="s5_modulemm">	
+			  <span style="color: #5a2800;">
+			    <span style="font-size: 11pt;">
+			      <span style="font-size: 14pt;">
+			      </span>
+			    </span>
+			  </span>
+			</div>	
+		      </div>
+		    </div>
+		    <div class="s5_modulebl">	
+		      <div class="s5_modulebr">	
+			<div class="s5_modulebm">	
+			</div>
+		      </div>	
+		    </div>
+		  </div>
+		  <div class="module">		
+		    <div class="s5_moduletl">	
+		      <div class="s5_moduletr">	
+			<div class="s5_moduletm">	
+			  <h3 class="s5_mod_h3"><span class="s5_h3_first">Become </span> a Client</h3>
+			</div>
+		      </div>	
+		    </div>
+		    <div class="s5_moduleml">
+		      <div class="s5_modulemr">	
+			<div class="s5_modulemm">	
+			  If you would like to become a client, please&nbsp;<a href="assets/ClientRegistrationPacket.pdf" title="Click here to download the client registration form." download>click here to download the registration form</a>.
+			</div>
+		      </div>
+		    </div>
+		    <div class="s5_modulebl">	
+		      <div class="s5_modulebr">	
+			<div class="s5_modulebm">	
+			</div>
+		      </div>	
+		    </div>
+		  </div>
+		</div>
+		<div style="clear:both;"></div>		
+	      </div>
+	      <div style="clear:both;"></div>
+	    </div>
+	  </div>
+	</div>
+	<div style="clear:both;"></div>	
+	<div class="s5_wrap">
+	  <div id="s5_footergrad">
+	    <div id="s5_topmenu">
+	      <div class="moduletable">
+		<p>Catherine Hand, PATH Intl. Advanced 
+		  Instructor has dedicated Dream Rider Equestrian Therapy to helping young riders gain confidence and focus through relationship with the horse.</p></div>
+	      <div class="moduletable">
+		<ul class="menu-bottom">
+		  <li class="item227">
+		    <a href="assets/ClientRegistrationPacket.pdf" download><span>Become a Client</span></a>
+		  </li>
+		  <li class="item228"><a href="assets/VolunteerPacket.pdf" download><span>Become a Volunteer</span></a>
+		  </li>
+		  <!--
+		  <li class="item231"><a href="links.html"><span>Links</span></a>
+		  </li>
+                  -->
+		  <li class="item232"><a href="about.html"><span>About Us</span></a>
+		  </li>
+		  <!--
+		  <li class="item233"><a href="news.html"><span>News</span></a>
+		  </li>
+		  <li class="item236"><a href="sitemap.html"><span>Site Map</span></a>
+		  </li>
+                  -->
+		  <li class="item234"><a href="mailto:info@dreamriderequestriantherapy.com?subject=Requesting%20Information%20on%20Dream%20Rider"><span>Contact</span></a>
+		  </li>
+		  <!--
+		      <li class="item243"><a href="https://web.archive.org/web/20190722031528/http://dreamriderequestriantherapy.com/dreamrider/index.php?option=com_user&amp;view=login&amp;Itemid=243"><span>Sign In</span></a>
+		      </li>
+		      -->
+		</ul>
+	      </div>
+	      <div class="moduletable">
+		<div style="clear: both;"></div>
+		543 Anderson Road, Alpine, CA &nbsp;91901 <strong>&nbsp;<span style="font-size: 12pt;">|</span></strong>&nbsp; 619-445-2576&nbsp; <span style="font-size: 12pt;"><strong> |</strong></span>&nbsp; <span style="font-size: 10pt;"> <a href="mailto:info@dreamriderequestriantherapy.com?subject=Requesting%20Information%20on%20Dream%20Rider">info@dreamriderequestriantherapy.com</a></span>
+	      </div>
+	    </div>
+	    <div style="clear:both;"></div>	
+	    <div id="s5_footcopy">
+	      <span class="footerc">
+		Copyright © 2021.  Dream Rider Equestrian Therapy.
+	      </span>
+	    </div>		
+	  </div>
+	  <div style="height:50px;clear:both;"></div>
+	</div>
+      </div>
+    </div>
+    <script type="text/javascript" src="assets/js/s5_suckerfish.js"></script>
+    <script type="text/javascript" src="assets/js/tooltips.js"></script>
+    <script type="text/javascript" src="assets/js/s5_textmenu.js"></script>
+    <script type="text/javascript">
+      var s5mbox = {};
+      window.addEvent('domready', function(){	s5mbox = new MultiBox('s5mb', {descClassName: 's5_multibox', useOverlay: true, showControls: true});	});
+    </script>
+  </body>
+</html>
