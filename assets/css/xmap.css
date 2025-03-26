@@ -1,0 +1,54 @@
+/* list-style: pos1 pos2 po3;
+ *    parameter:
+ *               pos1: none | disc | circle | square
+ *               pos2: inside | outside
+ *               pos3: none | url('arrow.gif')
+ * more info under: http://www.w3schools.com/css/css_list.asp
+ */
+
+.xmap ul {
+	display		: block;
+	list-style	: none;
+	margin		: 0;
+	padding		: 0;
+}
+.xmap ul li {
+	margin		: 0;
+	padding		: 0;
+	background	: transparent;
+}
+.xmap a img {
+	border		: none;
+}
+.xmap ul.level_0 ul {
+	list-style	: inside square;
+	padding		: 0;
+}
+.xmap ul.level_1 li {
+	padding		: 0 0 0 2em;
+}
+.xmap .active {
+	font-style	: italic;
+}
+
+/*
+     FILE ARCHIVED ON 06:56:38 Nov 30, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:15:32 Mar 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 178.187 (2)
+  RedisCDXSource: 1.055
+  exclusion.robots: 0.337
+  LoadShardBlock: 112.196 (3)
+  PetaboxLoader3.resolve: 89.47 (3)
+  exclusion.robots.policy: 0.319
+  PetaboxLoader3.datanode: 139.916 (5)
+  esindex: 0.012
+  captures_list: 144.236
+  CDXLines.iter: 26.568 (3)
+*/
