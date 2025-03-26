@@ -1,0 +1,99 @@
+.body-overlayed embed, .body-overlayed object, .body-overlayed select
+{
+	visibility:				hidden;
+}
+
+#sbox-window embed, #sbox-window object, #sbox-window select
+{
+	visibility:				visible;
+}
+
+#sbox-overlay
+{
+	position:				absolute;
+	background-color:		#000;
+}
+
+#sbox-window
+{
+	position:				absolute;
+	background-color:		#000;
+	text-align:				left;
+	overflow:				visible;
+	padding:				10px;
+	-moz-border-radius:		3px;
+}
+
+* html #sbox-window
+{
+	top: 50% !important;
+	left: 50% !important;
+}
+
+#sbox-btn-close
+{
+	position:				absolute;
+	width:					30px;
+	height:					30px;
+	right:					-15px;
+	top:					-15px;
+	background:				url(/web/20180903024149im_/http://dreamriderequestriantherapy.com/dreamrider/media/system/images/closebox.png) no-repeat top left;
+	border:					none;
+}
+
+.sbox-loading #sbox-content
+{
+	background-image:		url(/web/20180903024149im_/http://dreamriderequestriantherapy.com/dreamrider/media/system/images/spinner.gif);
+	background-repeat:		no-repeat;
+	background-position:	center;
+}
+
+#sbox-content
+{
+	clear:					both;
+	overflow:				auto;
+	background-color:		#fff;
+	height:					100%;
+	width:					100%;
+}
+
+.sbox-content-image#sbox-content
+{
+	overflow:				visible;
+}
+
+#sbox-image
+{
+	display:				block;
+}
+
+.sbox-content-image img
+{
+	display:				block;
+}
+
+.sbox-content-iframe#sbox-content
+{
+	overflow:				visible;
+}
+/*
+     FILE ARCHIVED ON 02:41:49 Sep 03, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:35:42 Mar 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.017
+  captures_list: 131.28
+  load_resource: 174.241 (2)
+  RedisCDXSource: 5.05
+  LoadShardBlock: 94.858 (3)
+  exclusion.robots: 0.212
+  PetaboxLoader3.datanode: 157.432 (5)
+  exclusion.robots.policy: 0.197
+  CDXLines.iter: 26.942 (3)
+  PetaboxLoader3.resolve: 82.843 (2)
+*/
