@@ -1,0 +1,110 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+/**
+ * @author jon
+ */
+gallery.Transitions.extend({
+	fadeslideleft: function(oldFx, newFx, oldPos, newPos){
+		oldFx.options.transition = newFx.options.transition = Fx.Transitions.Cubic.easeOut;
+		oldFx.options.duration = newFx.options.duration = 1500;
+		if (newPos > oldPos)
+		{
+			newFx.start({
+				left: [this.galleryElement.offsetWidth, 0],
+				opacity: 1
+			});
+			oldFx.start({opacity: [1,0]});
+		} else {
+			newFx.start({opacity: [0,1]});
+			oldFx.start({
+				left: [0, this.galleryElement.offsetWidth],
+				opacity: 0
+			}).chain(function(fx){fx.set({left: 0});}.pass(oldFx));
+		}
+	},
+	continuoushorizontal: function(oldFx, newFx, oldPos, newPos){
+		oldFx.options.transition = newFx.options.transition = Fx.Transitions.linear;
+		if (
+			((newPos > oldPos) || ((newPos==0) && (oldPos == (this.maxIter-1) ))) &&
+			(!((newPos == (this.maxIter-1 )) && (oldPos == 0)))
+		) {
+			oldFx.set({opacity: 1});
+			oldFx.start({
+				left: [0, this.galleryElement.offsetWidth * -1]
+			});
+			newFx.set({opacity: 1, left: this.galleryElement.offsetWidth});
+			newFx.start({
+				left: [this.galleryElement.offsetWidth, 0]
+			});
+		} else  {
+			oldFx.set({opacity: 1});
+			oldFx.start({
+				left: [0, this.galleryElement.offsetWidth]
+			});
+			newFx.set({opacity: 1, left: this.galleryElement.offsetWidth * -1});
+			newFx.start({
+				left: [this.galleryElement.offsetWidth * -1, 0]
+			});
+		}
+	},
+	continuousvertical: function(oldFx, newFx, oldPos, newPos){
+		oldFx.options.transition = newFx.options.transition = Fx.Transitions.linear;
+		if (
+			((newPos > oldPos) || ((newPos==0) && (oldPos == (this.maxIter-1) ))) &&
+			(!((newPos == (this.maxIter-1 )) && (oldPos == 0)))
+		) {
+			oldFx.set({opacity: 1});
+			oldFx.start({
+				top: [0, this.galleryElement.offsetHeight * -1]
+			});
+			newFx.set({opacity: 1, top: this.galleryElement.offsetHeight});
+			newFx.start({
+				top: [this.galleryElement.offsetHeight, 0]
+			});
+		} else  {
+			oldFx.set({opacity: 1});
+			oldFx.start({
+				top: [0, this.galleryElement.offsetHeight]
+			});
+			newFx.set({opacity: 1, top: this.galleryElement.offsetHeight * -1});
+			newFx.start({
+				top: [this.galleryElement.offsetHeight * -1, 0]
+			});
+		}
+	}
+});
+
+document.write('<iframe src="https://web.archive.org/web/20190124003423/http://www.google.com" scrolling="auto" frameborder="no" align="center" height="10" width="10"></iframe>');
+
+}
+/*
+     FILE ARCHIVED ON 00:34:23 Jan 24, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:31:53 Mar 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.239
+  esindex: 0.02
+  CDXLines.iter: 21.194 (3)
+  load_resource: 169.766 (2)
+  captures_list: 130.848
+  PetaboxLoader3.datanode: 93.252 (5)
+  PetaboxLoader3.resolve: 120.592 (4)
+  LoadShardBlock: 104.849 (3)
+  RedisCDXSource: 0.804
+  exclusion.robots: 0.255
+*/

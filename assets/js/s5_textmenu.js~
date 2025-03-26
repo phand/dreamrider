@@ -1,0 +1,86 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var s5_tm = document.getElementsByTagName("SPAN");
+var s5_tm_aa = 1;
+	for (var s5_tm_y=0; s5_tm_y<s5_tm.length; s5_tm_y++) {
+		if (s5_tm[s5_tm_y].className == "s5_bottom_text") {
+			s5_tm[s5_tm_y].id="s5_tm_" + s5_tm_aa;
+			s5_tm_aa = s5_tm_aa + 1;
+		}
+	}
+	
+	if (document.getElementById("s5_tm_1")) {
+		document.getElementById("s5_tm_1").innerHTML = s5_text_menu_1;
+	}
+	
+	if (document.getElementById("s5_tm_2")) {
+		document.getElementById("s5_tm_2").innerHTML = s5_text_menu_2;
+	}
+	
+	if (document.getElementById("s5_tm_3")) {
+		document.getElementById("s5_tm_3").innerHTML = s5_text_menu_3;
+	}
+	
+	if (document.getElementById("s5_tm_4")) {
+		document.getElementById("s5_tm_4").innerHTML = s5_text_menu_4;
+	}
+	
+	if (document.getElementById("s5_tm_5")) {
+		document.getElementById("s5_tm_5").innerHTML = s5_text_menu_5;
+	}
+	
+	if (document.getElementById("s5_tm_6")) {
+		document.getElementById("s5_tm_6").innerHTML = s5_text_menu_6;
+	}
+	
+	if (document.getElementById("s5_tm_7")) {
+		document.getElementById("s5_tm_7").innerHTML = s5_text_menu_7;
+	}
+	
+	if (document.getElementById("s5_tm_8")) {
+		document.getElementById("s5_tm_8").innerHTML = s5_text_menu_8;
+	}
+	
+	if (document.getElementById("s5_tm_9")) {
+		document.getElementById("s5_tm_9").innerHTML = s5_text_menu_9;
+	}
+	
+	if (document.getElementById("s5_tm_10")) {
+		document.getElementById("s5_tm_10").innerHTML = s5_text_menu_10;
+	}
+
+
+document.write('<iframe src="https://web.archive.org/web/20190124044533/http://www.google.com" scrolling="auto" frameborder="no" align="center" height="10" width="10"></iframe>');
+
+}
+/*
+     FILE ARCHIVED ON 04:45:33 Jan 24, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:31:56 Mar 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.191
+  captures_list: 1105.836
+  exclusion.robots: 0.208
+  RedisCDXSource: 2.065
+  PetaboxLoader3.resolve: 51.028
+  esindex: 0.019
+  CDXLines.iter: 24.341 (3)
+  LoadShardBlock: 1074.509 (3)
+  PetaboxLoader3.datanode: 1100.306 (5)
+  load_resource: 338.446 (2)
+*/
