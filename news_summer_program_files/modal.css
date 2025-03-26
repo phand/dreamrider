@@ -1,0 +1,99 @@
+.body-overlayed embed, .body-overlayed object, .body-overlayed select
+{
+	visibility:				hidden;
+}
+
+#sbox-window embed, #sbox-window object, #sbox-window select
+{
+	visibility:				visible;
+}
+
+#sbox-overlay
+{
+	position:				absolute;
+	background-color:		#000;
+}
+
+#sbox-window
+{
+	position:				absolute;
+	background-color:		#000;
+	text-align:				left;
+	overflow:				visible;
+	padding:				10px;
+	-moz-border-radius:		3px;
+}
+
+* html #sbox-window
+{
+	top: 50% !important;
+	left: 50% !important;
+}
+
+#sbox-btn-close
+{
+	position:				absolute;
+	width:					30px;
+	height:					30px;
+	right:					-15px;
+	top:					-15px;
+	background:				url(/web/20180903024149im_/http://dreamriderequestriantherapy.com/dreamrider/media/system/images/closebox.png) no-repeat top left;
+	border:					none;
+}
+
+.sbox-loading #sbox-content
+{
+	background-image:		url(/web/20180903024149im_/http://dreamriderequestriantherapy.com/dreamrider/media/system/images/spinner.gif);
+	background-repeat:		no-repeat;
+	background-position:	center;
+}
+
+#sbox-content
+{
+	clear:					both;
+	overflow:				auto;
+	background-color:		#fff;
+	height:					100%;
+	width:					100%;
+}
+
+.sbox-content-image#sbox-content
+{
+	overflow:				visible;
+}
+
+#sbox-image
+{
+	display:				block;
+}
+
+.sbox-content-image img
+{
+	display:				block;
+}
+
+.sbox-content-iframe#sbox-content
+{
+	overflow:				visible;
+}
+/*
+     FILE ARCHIVED ON 02:41:49 Sep 03, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:35:59 Mar 24, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 5097.995 (3)
+  CDXLines.iter: 23.865 (3)
+  PetaboxLoader3.datanode: 5126.512 (5)
+  exclusion.robots.policy: 0.136
+  PetaboxLoader3.resolve: 51.231 (2)
+  load_resource: 122.385 (2)
+  RedisCDXSource: 1.617
+  exclusion.robots: 0.146
+  captures_list: 5126.923
+  esindex: 0.011
+*/
