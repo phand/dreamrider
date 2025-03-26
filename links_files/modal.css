@@ -1,0 +1,99 @@
+.body-overlayed embed, .body-overlayed object, .body-overlayed select
+{
+	visibility:				hidden;
+}
+
+#sbox-window embed, #sbox-window object, #sbox-window select
+{
+	visibility:				visible;
+}
+
+#sbox-overlay
+{
+	position:				absolute;
+	background-color:		#000;
+}
+
+#sbox-window
+{
+	position:				absolute;
+	background-color:		#000;
+	text-align:				left;
+	overflow:				visible;
+	padding:				10px;
+	-moz-border-radius:		3px;
+}
+
+* html #sbox-window
+{
+	top: 50% !important;
+	left: 50% !important;
+}
+
+#sbox-btn-close
+{
+	position:				absolute;
+	width:					30px;
+	height:					30px;
+	right:					-15px;
+	top:					-15px;
+	background:				url(/web/20180903024149im_/http://dreamriderequestriantherapy.com/dreamrider/media/system/images/closebox.png) no-repeat top left;
+	border:					none;
+}
+
+.sbox-loading #sbox-content
+{
+	background-image:		url(/web/20180903024149im_/http://dreamriderequestriantherapy.com/dreamrider/media/system/images/spinner.gif);
+	background-repeat:		no-repeat;
+	background-position:	center;
+}
+
+#sbox-content
+{
+	clear:					both;
+	overflow:				auto;
+	background-color:		#fff;
+	height:					100%;
+	width:					100%;
+}
+
+.sbox-content-image#sbox-content
+{
+	overflow:				visible;
+}
+
+#sbox-image
+{
+	display:				block;
+}
+
+.sbox-content-image img
+{
+	display:				block;
+}
+
+.sbox-content-iframe#sbox-content
+{
+	overflow:				visible;
+}
+/*
+     FILE ARCHIVED ON 02:41:49 Sep 03, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:09:56 Mar 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 243.403 (2)
+  esindex: 0.013
+  RedisCDXSource: 2.476
+  exclusion.robots.policy: 0.133
+  captures_list: 167.526
+  PetaboxLoader3.resolve: 126.652 (2)
+  LoadShardBlock: 142.826 (3)
+  exclusion.robots: 0.143
+  PetaboxLoader3.datanode: 207.867 (5)
+  CDXLines.iter: 19.166 (3)
+*/
